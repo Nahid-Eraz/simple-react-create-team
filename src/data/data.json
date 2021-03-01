@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "name": "Salah",
+    "nationality": "Egypy",
+    "position": "FWD",
+    "current_club": "Liverpool",
+    "bid_price": 200,
+    "img": "https://images.daznservices.com/di/library/GOAL/9e/a7/mohamed-salah-liverpool_d2rlyfipsy0e1lrcxvmynocf2.jpg?t=-1025951920&quality=100"
+  }, {
+    "id": 2,
+    "name": "Son",
+    "nationality": "South Korea",
+    "position": "MD",
+    "current_club": "Spurs",
+    "bid_price": 106,
+    "img": "https://e0.365dm.com/20/02/768x432/skysports-heung-min-son-spurs_4923567.jpg?20200218115751"
+  }, {
+    "id": 3,
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "position": "MD",
+    "current_club": "Man City",
+    "bid_price": 290,
+    "img": "https://cdn-wp.thesportsrush.com/2020/11/6551694e-kevin-de-bruyne.jpg"
+  }, {
+    "id": 4,
+    "name": "Rashford",
+    "nationality": "England",
+    "position": "FWD",
+    "current_club": "Man united",
+    "bid_price": 63,
+    "img": "https://images.daznservices.com/di/library/GOAL/b2/c5/marcus-rashford-manchester-united-2020-21_1b9kufegk2jqu14zwbdcjch9lo.jpg?t=1894100741&quality=100"
+  }, {
+    "id": 5,
+    "name": "Neymar",
+    "nationality": "Brazil",
+    "position": "MD",
+    "current_club": "PSG",
+    "bid_price": 245,
+    "img": "https://en.as.com/en/imagenes/2020/11/09/football/1604913532_162993_noticia_normal.jpg"
+  }, {
+    "id": 6,
+    "name": "C. Ronaldo",
+    "nationality": "Portugal",
+    "position": "FWD",
+    "current_club": "Juventus",
+    "bid_price": 340,
+    "img": "https://news.cgtn.com/news/2021-01-04/Ronaldo-breaks-Pele-s-scoring-record-as-Juventus-thrash-Udinese-WLO33rfiWk/img/042d57e620d24cef8607efee896ef9e4/042d57e620d24cef8607efee896ef9e4.png"
+  }, {
+    "id": 7,
+    "name": "Messi",
+    "nationality": "Argentina",
+    "position": "MD",
+    "current_club": "Barcelona",
+    "bid_price": 400,
+    "img": "https://www.sportsnet.ca/wp-content/uploads/2020/02/Lionel-Messi-Barcelona.jpg"
+  }, {
+    "id": 8,
+    "name": "Mbappe",
+    "nationality": "France",
+    "position": "FWD",
+    "current_club": "PSG",
+    "bid_price": 220,
+    "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1366x450:1368x448)/origin-imgresizer.eurosport.com/2021/01/20/2975123-61058268-2560-1440.jpg"
+  }, {
+    "id": 9,
+    "name": "Halland",
+    "nationality": "Norway",
+    "position": "FWD",
+    "current_club": "BVB",
+    "bid_price": 160,
+    "img": "https://images.beinsports.com/fp5F5C640QmHvXACcwMkRtm0yhw=/1300x731/smart/erlinghaaland-cropped_1e483u1yclnjv1995fnko4mw9f.jpg"
+  }, {
+    "id": 10,
+    "name": "Alexander Arnold",
+    "nationality": "England",
+    "position": "RB",
+    "current_club": "Liverpool",
+    "bid_price": 136,
+    "img": "https://cdn.vox-cdn.com/thumbor/c3XhYaS8tpEVfgJCtY8QVQrvVus=/248x78:2297x3288/1200x800/filters:focal(1085x319:1481x715)/cdn.vox-cdn.com/uploads/chorus_image/image/58848695/887221744.jpg.0.jpg"
+  }, {
+    "id": 11,
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "position": "CB",
+    "current_club": "Real Madrid",
+    "bid_price": 53,
+    "img": "https://images.daznservices.com/di/library/GOAL/8f/62/sergio-ramos-real-madrid-inter-2020_ym5v8e4kf1go18hlm26wsuklk.jpg?t=-1806816459&quality=60&w=1200&h=800"
+  }, {
+    "id": 12,
+    "name": "Thiago Silva",
+    "nationality": "CB",
+    "position": "CB",
+    "current_club": "Chelsea",
+    "bid_price": 37,
+    "img": "https://cdn.theathletic.com/app/uploads/2021/02/02094054/GettyImages-1230821046-scaled-e1612276897597-1024x684.jpg"
+  }, {
+    "id": 13,
+    "name": "Alphonso Davies",
+    "nationality": "Canada",
+    "position": "LB",
+    "current_club": "Bayern Mun",
+    "bid_price": 149,
+    "img": "https://tmssl.akamaized.net/images/foto/galerie/alphonso-davies-bayern-1599658492-47022.jpg?lm=1599658501"
+  }, {
+    "id": 14,
+    "name": "Kalidou Koulibaly",
+    "nationality": "France",
+    "position": "LB",
+    "current_club": "Napoli",
+    "bid_price": 110,
+    "img": "https://en.as.com/en/imagenes/2018/01/18/football/1516297572_653249_noticia_normal.jpg"
+  }, {
+    "id": 15,
+    "name": "Ter Stegen",
+    "nationality": "Germany",
+    "position": "GK",
+    "current_club": "Barcelona",
+    "bid_price": 87,
+    "img": "https://i.ytimg.com/vi/Ew_h1H-3pNo/maxresdefault.jpg"
+  }]
