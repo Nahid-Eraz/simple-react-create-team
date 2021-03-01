@@ -23,7 +23,7 @@ const Hire = (props) => {
                 </Card.Body>
             </Card>
             <br/>
-            <h4>Selected Players</h4>
+            <h4 style={{color:'white'}}>Selected Players</h4>
             <br/>
             {
                 hire.map(singlePlayer =>
@@ -38,7 +38,6 @@ const Hire = (props) => {
                     </Card>
                 )
             }
-
         </div>
     );
 };

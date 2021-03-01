@@ -25,11 +25,11 @@ const Players = () => {
         <Container className="main-container">
             <Row>
                 <Col md={3} className="hired-player-container">
-                    <h2>Selected</h2>
+                    <h2 style={{color: 'white'}}>Selection Section</h2>
                     <Hire hire = {hire}></Hire>
                 </Col>
+                
                 <Col md={9} className="players-container">
-                    <h2>Players List</h2>
                     {
                         players.map(plr => <Player player={plr} handleAddPlayers={handleAddPlayers} key={plr.id}></Player>)
                     }

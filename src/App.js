@@ -3,13 +3,14 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Component/Header/Header';
 import Players from './Component/Players/Players';
+import Front from './Component/Front/Front';
 
 function App() {
   return (
     <div className="App">
       <div>
         <Header></Header>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, aperiam!</p>
+        <Front></Front>
       </div>
       <div>
         <Players></Players>
